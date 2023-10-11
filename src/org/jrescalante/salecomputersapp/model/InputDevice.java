@@ -12,6 +12,6 @@ public class InputDevice {
     @Override
     public String toString() {
         return "Input Type: " + inputType+
-                "Brand: " + brand;
+                ", Brand: " + brand;
     }
 }
