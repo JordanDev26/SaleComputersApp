@@ -22,6 +22,6 @@ public class Computer {
                 "\nName: " + name +
                 "\nMonitor specifications-> " + monitor +
                 "\nKeyboard specifications-> " + keyboard +
-                "\nMouse specifications-> " + computerCounter;
+                "\nMouse specifications-> " + mouse + "\n";
     }
 }
